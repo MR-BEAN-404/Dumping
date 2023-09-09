@@ -17,4 +17,4 @@ elif bit=='33bit':
     os.system('xdg-open https://facebook.com/groups/351076900316263/')
     import Dump32
 else:
-    print(f'{red}[×] Sorry System Not Support{white}')￼Enter
+    print(f'{red}[×] Sorry System Not Support{white}')Enter
